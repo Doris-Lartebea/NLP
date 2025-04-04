@@ -21,7 +21,7 @@ Here are some of the emotions people express in social media posts about online 
  
 3. I had the best experience with online shopping! Their website was easy to use, and the product arrived in perfect condition. I'll be shopping with them again. #onlineshoppinglove - Facebook
 
-*METHODOLOGY 
+METHODOLOGY 
 
 1. Data Collection: Collect dataset of social media posts related to online shopping.
 
@@ -31,4 +31,12 @@ Here are some of the emotions people express in social media posts about online 
 
 4. Emotion detection: Emotion detection involves classifying the emotional content of the text into categories such as joy, anger, sadness, disgust, disappointment etc. and use a natural language processing tool to analyze the emotional content of each post.
 
-5. Visualization: Finally, we can visualize the results using graphs or charts to make the findings more accessible and understandable. 
+5. Visualization: Finally, we can visualize the results using graphs or charts to make the findings more accessible and understandable.
+
+EXPECTED RESULTS 
+
+We aim to find a range of emotions expressed in social media posts related to Online shopping. There may be differences in emotional expression between different social media platforms and we expect to gain more insights into the responses to Online shopping. 
+
+CONCLUSION
+
+The findings of this research project will provide valuable insights into the emotional responses of people towards Online shopping on social media. This information can be used by businesses, policymakers, or social media marketers to better understand public emotions and tailor their messaging or strategies accordingly. It can also provide a foundation for future research exploring the relationship between emotions, social media, and public opinion.
