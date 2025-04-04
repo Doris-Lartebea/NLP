@@ -21,7 +21,7 @@ Here are some of the emotions people express in social media posts about online 
  
 3. I had the best experience with online shopping! Their website was easy to use, and the product arrived in perfect condition. I'll be shopping with them again. #onlineshoppinglove - Facebook
 
-#METHODOLOGY 
+*METHODOLOGY 
 
 1. Data Collection: Collect dataset of social media posts related to online shopping.
 
